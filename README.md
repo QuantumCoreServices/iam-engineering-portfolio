@@ -175,7 +175,9 @@ def provision_user(employee_data):
 
 ## Certifications & Training
 
-- RHCSA (Red Hat Certified System Administrator) - In Progress
+- RHCSA (Red Hat Certified System Administrator)
+- Az Adnmin
+- Az Fundementals
 - Microsoft Security, Compliance, and Identity Fundamentals
 - CompTIA Security+ (Planned)
 
@@ -183,11 +185,11 @@ def provision_user(employee_data):
 
 ## Contact
 
-**Sheniah Ferguson**
+**Sean Ofodile**
 IAM Engineer | Cybersecurity Professional
 
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [[github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)](https://github.com/QuantumCoreServices/iam-engineering-portfolio)
+- LinkedIn: https://www.linkedin.com/in/sean-ofodile-9075a01aa/
 
 ---
 
