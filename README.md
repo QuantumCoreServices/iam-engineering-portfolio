@@ -1,6 +1,6 @@
 # Enterprise IAM Engineering Portfolio
 
-## Sheniah Ferguson | IAM Engineer & Cybersecurity Professional
+## Sean Ofodile | IAM Engineer & Cybersecurity Professional
 
 ---
 
